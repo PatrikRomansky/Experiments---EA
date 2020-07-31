@@ -1,0 +1,3 @@
+mutProb = 0.7
+popSize = 20
+maxGen = 15000

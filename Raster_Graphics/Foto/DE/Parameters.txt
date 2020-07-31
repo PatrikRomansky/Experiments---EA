@@ -1,0 +1,4 @@
+CR = 0.01
+F = 0.1
+popSize = 20
+maxGen = 15000

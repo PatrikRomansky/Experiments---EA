@@ -1,0 +1,5 @@
+mutProb = 0.78
+xoverProb = 0.55
+elite = 0.2
+popSize = 20
+maxGen = 15000
